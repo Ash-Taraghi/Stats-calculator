@@ -13,6 +13,8 @@
 ## Overview
 The **Statistics Calculator** is a simple web application that allows users to calculate various statistical measures including mean, median, mode, range, variance, and standard deviation. This tool is designed for users who need quick and easy access to these statistical calculations.
 
+You can go to the website with this URL: https://ash-taraghi.github.io/Stats-calculator/
+
 ## Features
 - Calculate the **mean** (average) of a list of numbers.
 - Determine the **median**, which is the middle number in a sorted list.
